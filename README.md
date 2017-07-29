@@ -52,3 +52,9 @@ Known Issues
 ------------
 
 * Vertical centering doesn't work well with SVG. Some parts might be cropped if the image is larger than windows.
+
+Changelog
+---------
+
+* 0.1.0 (Jul 29, 2017)
+	- First release
