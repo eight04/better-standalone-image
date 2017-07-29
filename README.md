@@ -9,10 +9,24 @@ Features
 * Style standalone image page. Make it center and background transparent.
 * Support SVG (Currently Greasemonkey-only).
 * No configuration. Please edit the source if you prefer a different color.
+* Work on CSP restricted sites.
 
-Screenshot
-----------
+Screenshots
+-----------
 
+### Firefox
+
+Before:
+![http://i.imgur.com/UbKVXiy.png](https://i.imgur.com/UbKVXiy.png)
+After:
+![http://i.imgur.com/UFRgQuI.png](https://i.imgur.com/UFRgQuI.png)
+
+### Chrome
+
+Before:
+![http://i.imgur.com/iAEWADT.png](https://i.imgur.com/iAEWADT.png)
+After:
+![http://i.imgur.com/Ff1PPqF.png](https://i.imgur.com/Ff1PPqF.png)
 
 
 Compatibility
