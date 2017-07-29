@@ -39,7 +39,7 @@ Compatibility
 Install
 -------
 
-GreasyFork
+[GreasyFork](https://greasyfork.org/en/scripts/31865-better-standalone-image)
 
 Similar scripts
 ---------------
