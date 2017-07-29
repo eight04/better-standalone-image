@@ -1,0 +1,24 @@
+{
+  "name": "better-standalone-image",
+  "version": "0.0.0",
+  "description": "An userscript to make standalone image display better",
+  "keywords": [
+    "userscript",
+    "image",
+    "style"
+  ],
+  "license": "MIT",
+  "author": "eight04 <eight04@gmail.com>",
+  "repository": "eight04/better-standalone-image",
+  "scripts": {
+    "test": "eslint *.js",
+    "preversion": "npm test",
+    "version": "sync-version better-standalone-image.user.js && git add .",
+    "postversion": "git push --follow-tags"
+  },
+  "private": true,
+  "devDependencies": {
+    "eslint": "^4.3.0",
+    "sync-version": "^1.0.0"
+  }
+}

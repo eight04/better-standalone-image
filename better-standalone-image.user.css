@@ -1,0 +1,28 @@
+/* ==UserStyle==
+@name Better Standalone Image
+@url-prefix http
+@url-prefix file
+@content-type image
+==/UserStyle== */
+
+body {
+  background: 
+    linear-gradient(45deg, rgba(0, 0, 0, .25), rgba(0, 0, 0, .25) 25%,
+		transparent 25%, transparent 75%, rgba(0, 0, 0, .25) 75%),
+    linear-gradient(45deg, rgba(0, 0, 0, .25), rgba(0, 0, 0, .25) 25%,
+		transparent 25%, transparent 75%, rgba(0, 0, 0, .25) 75%),
+    #222!important;
+  background-position: 0 0, 8px 8px!important;
+  background-size: 16px 16px!important;
+  
+  margin: 0!important;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+body > img {
+  background-image: none!important;
+  background-color: transparent!important;
+  box-shadow: 0 0 10px 10px rgba(0, 0, 0, .4)!important;
+}
