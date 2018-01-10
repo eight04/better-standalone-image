@@ -19,6 +19,8 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
+  min-width: fit-content;
+  min-height: fit-content;
 }
 
 body > img {
