@@ -12,7 +12,7 @@
 // @grant GM_getResourceURL
 // @grant GM_getResourceText
 // @grant GM_addStyle
-// @resource style https://rawgit.com/eight04/better-standalone-image/master/better-standalone-image.user.css
+// @resource style https://rawgit.com/eight04/better-standalone-image/5097ca904ed82b7342afc68272e072d3218a96da/better-standalone-image.user.css
 // @compatible firefox Greasemonkey 3
 // @compatible chrome Tampermonkey
 // ==/UserScript==
