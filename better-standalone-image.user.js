@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name Better Standalone Image
-// @version 0.1.0
+// @version 0.1.1
 // @description Make standalone image display better
 // @license MIT
 // @author eight04 <eight04@gmail.com>
