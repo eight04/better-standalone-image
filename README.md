@@ -33,8 +33,8 @@ Compatibility
 -------------
 
 * Firefox + Greasemonkey 3
+* Firefox + Tampermonkey
 * Chrome + Tampermonkey
-	- Tampermonkey doesn't execute userscripts on SVG images.
 	
 Install
 -------
@@ -56,5 +56,10 @@ Known Issues
 Changelog
 ---------
 
+* 0.1.1 (Jan 10, 2018)
+
+  - Fix: large image is cropped in chrome.
+
 * 0.1.0 (Jul 29, 2017)
+
 	- First release
